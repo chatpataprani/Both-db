@@ -1,5 +1,0 @@
-fastapi
-uvicorn[standard]
-duckdb
-huggingface_hub
-fsspec
